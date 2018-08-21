@@ -5,7 +5,7 @@
 * Внесите правки в файл
 * Когда готово - отправляете pull request
 
-Сайт-зеркало: https://ru-ch.github.io/faq/
+Сайт-зеркало: [ru-ch.github.io/faq](https://ru-ch.github.io/faq/)
 
 # Авторские права и отказ от ответственности
 

@@ -30,6 +30,9 @@
 
 обсуждение вопроса объединения четов: [issue1](https://github.com/ru-ch/faq/issues/1)
 
+#### Каналы по Швейцарии в Telegram
+* [alps_lakes_cats](https://t.me/alps_lakes_cats)
+
 #### Группы в Facebook: 
 * [группа номер раз](https://www.facebook.com/groups/144523978931587/)
 

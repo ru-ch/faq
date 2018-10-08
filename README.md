@@ -31,7 +31,8 @@
 обсуждение вопроса объединения четов: [issue1](https://github.com/ru-ch/faq/issues/1)
 
 #### Каналы по Швейцарии в Telegram
-* [alps_lakes_cats](https://t.me/alps_lakes_cats)
+* [alps_lakes_cats](https://t.me/alps_lakes_cats) - Жизнь ITшника в Швейцарии
+* [wogommer](https://t.me/wogommer) - Работаю во всяких культурных местах, много путешествую и стараюсь знать, что и где классно и когда. Буду писать про места и события.
 
 #### Группы в Facebook: 
 * [группа номер раз](https://www.facebook.com/groups/144523978931587/)

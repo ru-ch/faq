@@ -32,7 +32,7 @@
 * [Switzerland_Rus](https://t.me/Switzerland_Rus)
 * [swiss_ru](https://t.me/swiss_ru)
 
-обсуждение вопроса объединения четов: [issue1](https://github.com/ru-ch/faq/issues/1)
+обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
 
 #### Каналы по Швейцарии в Telegram
 * [alps_lakes_cats](https://t.me/alps_lakes_cats) - Жизнь ITшника в Швейцарии

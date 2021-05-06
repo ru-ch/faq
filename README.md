@@ -33,6 +33,9 @@
 #### Чаты в Telegram:
 * [Switzerland_Rus](https://t.me/Switzerland_Rus)
 * [swiss_ru](https://t.me/swiss_ru)
+* [CHF Flood](https://t.me/helvetica_rus)
+* [Zurich RU](https://t.me/zurilife)
+* [Geneva RU](https://t.me/chatsuisse)
 
 Обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
 

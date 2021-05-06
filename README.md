@@ -33,15 +33,18 @@
 #### Чаты в Telegram:
 * [Switzerland_Rus](https://t.me/Switzerland_Rus)
 * [swiss_ru](https://t.me/swiss_ru)
-* [CHF Flood](https://t.me/helvetica_rus)
-* [Zurich RU](https://t.me/zurilife)
-* [Geneva RU](https://t.me/chatsuisse)
+* [CHF Flood](https://t.me/helvetica_rus) - Общение без ограничений
+* [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
+* [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
 * [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
 * [Россия - Швейцария полеты во время коронавируса](https://t.me/ruswisstravel)
 * [Чат: Швейцария - РФ ХОТИМ ДОМОЙ](https://t.me/switzerland_rf_covid19_chat)
+* [Зимние активности](https://t.me/katalka_ch)
+* [Шахматный клуб. Цюрих](https://t.me/swiss_ru_chess)
 
-Обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
+#### Боты Telegram:
+* @swisscorona_bot - Swiss Coronavirus Stats
 
 #### Каналы по Швейцарии в Telegram
 * [alps_lakes_cats](https://t.me/alps_lakes_cats) - Жизнь IT-шника в Швейцарии

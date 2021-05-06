@@ -36,6 +36,7 @@
 * [CHF Flood](https://t.me/helvetica_rus)
 * [Zurich RU](https://t.me/zurilife)
 * [Geneva RU](https://t.me/chatsuisse)
+* [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
 
 Обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
 

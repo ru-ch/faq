@@ -37,6 +37,7 @@
 * [Zurich RU](https://t.me/zurilife)
 * [Geneva RU](https://t.me/chatsuisse)
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
+* [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
 
 Обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
 

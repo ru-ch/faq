@@ -38,6 +38,7 @@
 * [Geneva RU](https://t.me/chatsuisse)
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
 * [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
+* [Россия - Швейцария полеты во время коронавируса](https://t.me/ruswisstravel)
 
 Обсуждение вопроса объединения чатов: [issue1](https://github.com/ru-ch/faq/issues/1)
 

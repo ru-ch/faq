@@ -31,9 +31,9 @@
 
 # Общение
 #### Чаты в Telegram:
-* [Switzerland_Rus](https://t.me/Switzerland_Rus)
-* [swiss_ru](https://t.me/swiss_ru)
-* [CHF Flood](https://t.me/helvetica_rus) - Общение без ограничений
+* [Switzerland_Rus](https://t.me/Switzerland_Rus) - общий чат
+* [swiss_ru](https://t.me/swiss_ru) - еще один общий чат
+* [CHF Flood](https://t.me/helvetica_rus) - Общение без ограничений.
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
 * [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
@@ -42,6 +42,11 @@
 * [Чат: Швейцария - РФ ХОТИМ ДОМОЙ](https://t.me/switzerland_rf_covid19_chat)
 * [Зимние активности](https://t.me/katalka_ch)
 * [Шахматный клуб. Цюрих](https://t.me/swiss_ru_chess)
+* [Счастливая Швейцария](https://t.me/joinchat/NWRIWPqBXJAwMTg0) - дружеское общение, обмен информацией
+
+#### Чаты WatsApp
+* [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)
+* [Санкт-Галлен кофе](https://chat.whatsapp.com/GXU2Ppejj5v17foe3RSYPq)
 
 #### Боты Telegram:
 * @swisscorona_bot - Swiss Coronavirus Stats

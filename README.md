@@ -43,6 +43,7 @@
 * [Зимние активности](https://t.me/katalka_ch)
 * [Шахматный клуб. Цюрих](https://t.me/swiss_ru_chess)
 * [Счастливая Швейцария](https://t.me/joinchat/NWRIWPqBXJAwMTg0) - дружеское общение, обмен информацией
+* [Посещение родственников в Швейцарии](https://t.me/rodnya_ch)
 
 #### Чаты WatsApp
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)

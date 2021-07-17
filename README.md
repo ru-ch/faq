@@ -33,8 +33,8 @@
 #### Чаты в Telegram:
 * [Switzerland_Rus](https://t.me/Switzerland_Rus) - общий чат
 * [swiss_ru](https://t.me/swiss_ru) - еще один общий чат
-* [CHF Flood](https://t.me/helvetic_flood) - Общение без ограничений.
-* [CHF Flood old](https://t.me/otkroii) - Старая флудилка, тут никого нет, флуд - это предыдущий теперь.
+* [CHF Flood](https://t.me/helvetic_flood) - Флудилка и встречалка.
+* [CHF Flood](https://t.me/otkroii) - Общение без ограничений.
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
 * [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей

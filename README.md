@@ -47,6 +47,7 @@
 * [Посещение родственников в Швейцарии](https://t.me/rodnya_ch)
 * [Швейцарская доска объявлений](https://t.me/baraholka_swiss) - только объявления - без обсуждений
 * [Мотоболталка](https://t.me/joinchat/VptHYOw12hUtynkd)
+* [Швейцария :: Лайфхак, mind room](https://t.me/swisslifehacker)
 
 #### Чаты WatsApp
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)

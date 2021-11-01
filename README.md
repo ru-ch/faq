@@ -65,7 +65,7 @@
 
 #### Группы в Facebook:
 * [группа номер раз](https://www.facebook.com/groups/144523978931587/)
-
+* [Группа Швейцария.Статус свободен](https://www.facebook.com/groups/493969841328813/?ref=share/)
 #### Youtube
 * [русские байкеры в Швейцарии](https://youtube.com/c/ANKERRECORDS)
 

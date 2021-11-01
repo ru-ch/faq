@@ -35,6 +35,7 @@
 * [swiss_ru](https://t.me/swiss_ru) - еще один общий чат
 * [Helvetic Flood](https://t.me/helvetic_flood) - Флудилка и встречалка.
 * [CHF Flood](https://t.me/otkroii) - Общение без ограничений.
+* [Швейцария. Статус свободен.](https://t.me/joinchat/RI7ZYnYVm1plMjU0) - чат для знакомств и обсуждения отношений, от одноименной группы в фейсбуке
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
 * [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей

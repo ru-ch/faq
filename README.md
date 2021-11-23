@@ -47,7 +47,7 @@
 * [Счастливая Швейцария](https://t.me/joinchat/NWRIWPqBXJAwMTg0) - дружеское общение, обмен информацией
 * [Посещение родственников в Швейцарии](https://t.me/rodnya_ch)
 * [Швейцарская доска объявлений](https://t.me/baraholka_swiss) - только объявления - без обсуждений
-* [Мотоболталка](https://t.me/joinchat/VptHYOw12hUtynkd)
+* [Русскоязычные байкеры в Швейцарии](https://t.me/joinchat/VptHYOw12hUtynkd)
 * [Швейцария :: Лайфхак, mind room](https://t.me/swisslifehacker)
 
 #### Чаты WatsApp

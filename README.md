@@ -51,6 +51,7 @@
 * [Русскоязычные байкеры в Швейцарии](https://t.me/joinchat/VptHYOw12hUtynkd)
 * [Швейцария :: Лайфхак, mind room](https://t.me/swisslifehacker)
 * [/b/](https://t.me/swiss_ru_b) - тут давно никого нет
+* [чат иммигрантов в CH](https://t.me/forum_switzerland) - чат от одноименного проекта для иммигрантов, тонны рекламы и очень жесткие правила
 
 #### Чаты WatsApp
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)

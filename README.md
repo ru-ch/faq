@@ -66,6 +66,7 @@
 
 #### Каналы по Швейцарии в Telegram
 * [Russian events в Швейцарии](https://t.me/swissrussianparty)
+* [Best after work party mafia](https://t.me/+uT2egtRG1-oxOGNk) - Анонсы вечеринок и концертов + фото с мероприятий
 * [schwingen](https://t.me/schwingen) - Новости на русском о событиях и судьбах эмигрантов в Швейцарии для креативных, активных, неравнодушных.
 * [aboutswisslive](https://t.me/aboutswisslive) - Новостной канал о Швейцарии: стране часов, шоколада, сыра и больших денег.
 * [alps_lakes_cats](https://t.me/alps_lakes_cats) - Жизнь IT-шника в Швейцарии

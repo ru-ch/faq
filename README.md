@@ -41,6 +41,7 @@
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
 * [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [fr_swiss_ru](https://t.me/fr_swiss_ru) - чат русскоговорящей молодёжи живущей во французской части Швейцарии
+* [спорт](https://t.me/+3yVtvsNWK4NjNjBi) - Объединение ленивых людей
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
 * [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
 * [Россия - Швейцария полеты во время коронавируса](https://t.me/ruswisstravel)

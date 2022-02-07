@@ -36,7 +36,6 @@
 * [Helvetic Flood](https://t.me/helvetic_flood) - Флудилка и встречалка.
 * [CHF Flood](https://t.me/otkroii) - Общение без ограничений.
 * [Русское сообщество в Швейцарии с Юлей Добровольской](https://t.me/+Gu0_V76MmkVmMzYy) - тёплое сообщество, где мы делимся полезной и интересной информацией, включая анонсы мероприятий в Швейцарии
-* [Корейская косметика в Швейцарии] - чат телеграмм канала о корейской косметике в Швейцарии [Botanial.beauty.ch](https://t.me/+U6odoVgxoD0TCEpw)
 * [PRO Женщин Швейцария](https://t.me/pro_women_ch) - представительство в Швейцарии международного некоммерческого русскоговорящего сообщества PRO Женщин. Самореализация. Вдохновение. Поддержка.
 * [Швейцария. Статус свободен.](https://t.me/joinchat/RI7ZYnYVm1plMjU0) - чат для знакомств и обсуждения отношений, от одноименной группы в фейсбуке
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
@@ -59,6 +58,7 @@
 
 #### Чаты WatsApp
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)
+* [Корейская косметика в Швейцарии](https://chat.whatsapp.com/CbBtLj1Jek9BD0Eu7iDWuu) - чат телеграмм канала о корейской косметике в Швейцарии [Botanial.beauty.ch](https://t.me/+U6odoVgxoD0TCEpw)
 * [Санкт-Галлен кофе](https://chat.whatsapp.com/GXU2Ppejj5v17foe3RSYPq)
 * [Frauen in Bern](https://chat.whatsapp.com/DD71nPgFRgs55RAGAwfpeq) - информация на немецком языке про языковые встречи и прочие мероприятия в Берне для женщин со всего мира, а также для детей и семей
 

@@ -76,6 +76,7 @@
 * @swisscorona_bot - Swiss Coronavirus Stats
 
 #### Каналы по Швейцарии в Telegram
+* [Робота українцям Швейцарія](https://t.me/job_sw_ukrainians) - канал объявлений о работе для беженцев из Украины
 * [Russian events в Швейцарии](https://t.me/swissrussianparty)
 * [Botanical.lab.ch](https://t.me/+BFBbe0pyvSgwMDI0) - Канал студии массажа и эфирных масел + бьюти коворкинг. Берн.
 * [Botanial.beauty.ch](https://t.me/+U6odoVgxoD0TCEpw) - Корейская/японская косметика в Швейцарии. В наличии и под заказ. 2 корнера в кантоне Берн.

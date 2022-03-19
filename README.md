@@ -89,6 +89,7 @@
 * [france_swiss](https://t.me/france_swiss) - Заметки от @dinarasaf. Немного о том о сём на границе двух стран.
 Fashion, карантин, LVMH, юмор.
 * [gamesforadults_swiss](https://t.me/gamesforadults_swiss) - оффлайн и онлайн трансформационные игры для взрослых, благодаря которым знакомишься, находишь «своих» людей, а также растёшь и развиваешься
+* [покатушки в Швейцарии](https://t.me/RusBikersSchweiz) - Канал для публикации планируемых покатушек от одноименного чата [Русскоязычные байкеры в Швейцарии](https://t.me/joinchat/VptHYOw12hUtynkd)
 
 #### Группы в Facebook:
 * [группа номер раз](https://www.facebook.com/groups/144523978931587/)

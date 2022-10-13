@@ -79,6 +79,7 @@
 * [чат иммигрантов в CH](https://t.me/forum_switzerland) - чат от одноименного проекта для иммигрантов, тонны рекламы и очень жесткие правила
 
 #### Чаты WatsApp
+
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)
 * [Корейская косметика в Швейцарии](https://chat.whatsapp.com/CbBtLj1Jek9BD0Eu7iDWuu) - чат телеграмм канала о корейской косметике в Швейцарии [Botanial.beauty.ch](https://t.me/+U6odoVgxoD0TCEpw)
 * [Mamme Ticino](https://chat.whatsapp.com/Kj6wayZGMR1GQI2TZEJnLG) - группа русскоязычных родителей проживающих в Тичино
@@ -87,6 +88,7 @@
 * [Санкт-Галлен кофе](https://chat.whatsapp.com/GXU2Ppejj5v17foe3RSYPq)
 * [Frauen in Bern](https://chat.whatsapp.com/DD71nPgFRgs55RAGAwfpeq) - информация на немецком языке про языковые встречи и прочие мероприятия в Берне для женщин со всего мира, а также для детей и семей
 * [Girls Romandie](https://chat.whatsapp.com/JvFIYky2jLR3JpJxW1lZsD)
+* [Познакомить мам и пап](https://chat.whatsapp.com/KBYwZH37odUC44gC4CPS97) - Знакомим наших родителей. Группа для Романской Швейцарии. От создателей Швейцария.Статус Свободен. 
 
 #### Боты Telegram:
 * @swisscorona_bot - Swiss Coronavirus Stats
@@ -109,11 +111,13 @@
 Fashion, карантин, LVMH, юмор.
 * [gamesforadults_swiss](https://t.me/gamesforadults_swiss) - оффлайн и онлайн трансформационные игры для взрослых, благодаря которым знакомишься, находишь «своих» людей, а также растёшь и развиваешься
 * [покатушки в Швейцарии](https://t.me/RusBikersSchweiz) - Канал для публикации планируемых покатушек от одноименного чата [Русскоязычные байкеры в Швейцарии](https://t.me/joinchat/VptHYOw12hUtynkd)
+* [Швейцария. Статус свободен](https://t.me/joinchat/RI7ZYnYVm1plMjU0) - Группа для знакомств и обсуждения отношений в Швейцарии и окрестностях. Продолжение Фейсбук проекта 
 
 #### Группы в Facebook:
-* [группа номер раз](https://www.facebook.com/groups/144523978931587/)
+
 * [Группа Швейцария.Статус свободен](https://www.facebook.com/groups/493969841328813/?ref=share/)
 * [Успешные женщины в Швейцарии](https://www.facebook.com/groups/362233724162165/)
+* [группа номер раз](https://www.facebook.com/groups/144523978931587/)
 #### Youtube
 * [русские байкеры в Швейцарии](https://youtube.com/c/ANKERRECORDS)
 * [Русскоязычный мир Швейцарии](https://www.facebook.com/groups/ruworldofswitzerland/?ref=share)

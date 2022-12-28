@@ -92,6 +92,7 @@
 * @swisscorona_bot - Swiss Coronavirus Stats
 
 #### Каналы по Швейцарии в Telegram
+* [Мероприятия в Швейцарии на русском](https://t.me/chEVENTru) - Только анонсы мероприятий.
 * [Together](https://t.me/togetherassociation) - Канал ассоциации « Together » для анонсов разичных мероприятий в кантоне Во.
 * [Робота українцям Швейцарія](https://t.me/job_sw_ukrainians) - канал объявлений о работе для беженцев из Украины
 * [Russian events в Швейцарии](https://t.me/swissrussianparty)

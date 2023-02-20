@@ -90,6 +90,7 @@
 
 #### Боты Telegram:
 * @swisscorona_bot - Swiss Coronavirus Stats
+* [Обмен валюты](https://t.me/fxplace_bot)
 
 #### Каналы по Швейцарии в Telegram
 * [Мероприятия в Швейцарии на русском](https://t.me/chEVENTru) - Только анонсы мероприятий.

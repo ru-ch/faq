@@ -51,6 +51,7 @@
 * [Швейцария. Статус свободен.](https://t.me/joinchat/RI7ZYnYVm1plMjU0) - чат для знакомств и обсуждения отношений, от одноименной группы в фейсбуке
 * [Знакомства Швейцария](https://t.me/+zVDUPs6vAcI2ZmMy) - чат для знакомств в Швейцарии
 * [Silver coast chat](https://t.me/silver_coast_zh) - Дружеское общение для жителей Хорген региона ☺️
+* [Швейцария Нетворкинг | полезные связи в Швейцарии](https://t.me/+V3TPir43XNs0MWRk) - чат для нетворкинга русскоговорящих в Швейцарии
 * [Zurich RU](https://t.me/zurilife) - Геочат Цюриха
 * [Geneva RU](https://t.me/chatsuisse) - Геочат Женевы
 * [Эльзас & Базель](https://t.me/AlsatianImmigrants) - Геочат Эльзас и Базеля

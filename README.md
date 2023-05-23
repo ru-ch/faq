@@ -99,6 +99,7 @@
 * [Обмен валюты](https://t.me/fxplace_bot)
 
 #### Каналы по Швейцарии в Telegram
+* [Swiss 0steopath](https://t.me/swissosteopath) - канал швейцарского русскоговорящего остеопата
 * [Мероприятия в Швейцарии на русском](https://t.me/chEVENTru) - Только анонсы мероприятий.
 * [Together](https://t.me/togetherassociation) - Канал ассоциации « Together » для анонсов разичных мероприятий в кантоне Во.
 * [Робота українцям Швейцарія](https://t.me/job_sw_ukrainians) - канал объявлений о работе для беженцев из Украины

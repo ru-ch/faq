@@ -71,7 +71,7 @@
 * [Aboutswiss chat](https://t.me/aboutswisschat) - чат одноименного канала новостей
 * [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
 * [Россия - Швейцария полеты во время коронавируса](https://t.me/ruswisstravel)
-* [Чат: Швейцария - РФ ХОТИМ ДОМОЙ](https://t.me/switzerland_rf_covid19_chat)
+* [Швейцария <-> РФ](https://t.me/switzerland_rf_covid19_chat) - группа для обсуждения перемещений из/в Швейцарию
 * [Чат боулдеристов](https://t.me/free_climbing_ch) - группа для организации совместных походов на болдеринг
 * [Зимние активности](https://t.me/katalka_ch)
 * [Шахматный клуб. Цюрих](https://t.me/swiss_ru_chess)

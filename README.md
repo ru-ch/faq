@@ -47,7 +47,7 @@
 * [RU в CH](https://t.me/ru_v_ch) - чат для общения на общие темы
 * [Политика в CH](https://t.me/politics_v_ch) - группа для обсуждений политических вопросов Швейцарии и России
 * [swiss_ru](https://t.me/swiss_ru) - еще один общий чат
-* [Helvetic Flood](https://t.me/helvetic_flood) - Флудилка и встречалка.
+* [Chat des Taurus&Borschtsches](https://t.me/+chnAlLmZWts2MmI8) - Не заходите в этот чат вообще никогда
 * [CHF Flood](https://t.me/chf_flood_v2) - Общение без ограничений.
 * [Чат про деньги и счета в Швейцарии](https://t.me/auslandrussen)
 * [Творческая Швейцария](https://t.me/swisscreative) - знакомство, общение

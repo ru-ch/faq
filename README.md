@@ -70,7 +70,7 @@
 * [Ukraine Reborn](https://t.me/ukraine_reborn) - Swiss-Ukrainian support Association
 * [fr_swiss_ru](https://t.me/swiss_ru_genz_chat) - чат русскоговорящей молодёжи живущей во французской части Швейцарии + [инстаграмм](https://www.instagram.com/fr_swiss_ru/)
 * [Fribourg community](t.me/Fribourg01) - русскоязычный геочат Fribourg
-* [Инвест клуб CH](https://t.me/joinchat/Hu-3BzX7m58JL55U)
+* [Инвест клуб CH](https://t.me/+AW6hev7chMdmMmVi)
 * [Россия - Швейцария полеты во время коронавируса](https://t.me/ruswisstravel)
 * [Швейцария <-> РФ](https://t.me/switzerland_rf_covid19_chat) - группа для обсуждения перемещений из/в Швейцарию
 * [Чат боулдеристов и настольного тенниса](https://t.me/+slMV-TmKrQUxOTI0) - стенки, ракетки, вместе веселее

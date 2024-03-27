@@ -85,7 +85,6 @@
 
 #### Чаты WatsApp
 * [ВСТРЕЧИ И ОБЩЕНИЕ](https://chat.whatsapp.com/Fw07HOPrAcD2xCHgCXhuqS)
-* [Корейская косметика в Швейцарии](https://chat.whatsapp.com/CbBtLj1Jek9BD0Eu7iDWuu) - чат телеграмм канала о корейской косметике в Швейцарии [Botanial.beauty.ch](https://t.me/+U6odoVgxoD0TCEpw)
 * [Mamme Ticino](https://chat.whatsapp.com/Kj6wayZGMR1GQI2TZEJnLG) - группа русскоязычных родителей проживающих в Тичино
 * [Feste & Cucina](https://chat.whatsapp.com/ELVaiTGAOdN3Ybptni4O1v) - чат для общения русскоязычных в Тичино
 * [Паспорт Италии в CH](https://chat.whatsapp.com/Gf6zhqkPN7HEPFOCOgJ98y) - Чат для получения итальянского гражданства в Швейцарии (для жен итальянцев)

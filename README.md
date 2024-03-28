@@ -96,6 +96,7 @@
 
 #### Каналы по Швейцарии в Telegram
 * [Швейцарский ботинок](https://t.me/swiss_sneaker) - Знакомимся со Швейцарией вместе или про жизнь в Швейцарии изнутри.
+* [Оля в Швейцарии](https://t.me/sviridova_olla) - Швейцарские будни и выходные
 * [PRO Женщин Швейцария](https://t.me/pro_women_ch) - представительство в Швейцарии международного некоммерческого русскоговорящего сообщества PRO Женщин. Самореализация. Вдохновение. Поддержка.
 * [Swiss 0steopath](https://t.me/swissosteopath) - канал швейцарского русскоговорящего остеопата
 * [Мероприятия в Швейцарии на русском](https://t.me/chEVENTru) - Только анонсы мероприятий.
@@ -122,6 +123,7 @@ Fashion, карантин, LVMH, юмор.
 * [Группа Швейцария.Статус свободен](https://www.facebook.com/groups/493969841328813/?ref=share/)
 * [Успешные женщины в Швейцарии](https://www.facebook.com/groups/362233724162165/)
 #### Youtube
+* [Швейцария для Оли](https://www.youtube.com/@swiss_olla) - ламповый влоги из Швейцарии
 * [русские байкеры в Швейцарии](https://youtube.com/c/ANKERRECORDS)
 * [Русскоязычный мир Швейцарии](https://www.facebook.com/groups/ruworldofswitzerland/?ref=share)
 * [Группа для организации семинаров в помощь беженцам из Украины](https://www.facebook.com/bonum.nonprofit/)

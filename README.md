@@ -123,7 +123,7 @@ Fashion, карантин, LVMH, юмор.
 * [Группа Швейцария.Статус свободен](https://www.facebook.com/groups/493969841328813/?ref=share/)
 * [Успешные женщины в Швейцарии](https://www.facebook.com/groups/362233724162165/)
 #### Youtube
-* [Швейцария для Оли](https://www.youtube.com/@swiss_olla) - ламповый влоги из Швейцарии
+* [Швейцария для Оли](https://www.youtube.com/@swiss_olla) - ламповые влоги из Швейцарии
 * [русские байкеры в Швейцарии](https://youtube.com/c/ANKERRECORDS)
 * [Русскоязычный мир Швейцарии](https://www.facebook.com/groups/ruworldofswitzerland/?ref=share)
 * [Группа для организации семинаров в помощь беженцам из Украины](https://www.facebook.com/bonum.nonprofit/)

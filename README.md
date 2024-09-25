@@ -87,6 +87,7 @@
 * [Санкт-Галлен кофе](https://chat.whatsapp.com/GXU2Ppejj5v17foe3RSYPq)
 * [Frauen in Bern](https://chat.whatsapp.com/DD71nPgFRgs55RAGAwfpeq) - информация на немецком языке про языковые встречи и прочие мероприятия в Берне для женщин со всего мира, а также для детей и семей
 * [Girls Romandie](https://chat.whatsapp.com/JvFIYky2jLR3JpJxW1lZsD)
+* [Мамы Люцерна](https://chat.whatsapp.com/Ds9W0zUnYSLG92m4Y5f6CG)
 
 #### Боты Telegram:
 * @swisscorona_bot - Swiss Coronavirus Stats
